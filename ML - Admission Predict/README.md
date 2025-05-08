@@ -10,6 +10,7 @@ This project features a **Logistic Regression model** that predicts whether univ
 ## 🔍 Key Components  
 ✅ **Data Visualization** – Histogram, KDE, and ROC Curve analysis  
 ✅ **Data Preprocessing** – Cleaning, scaling.
+
 ✅ **Model Creation** – Logistic Regression setup and optimization  
 ✅ **Model Comparison** – Evaluating against other ML models  
 
